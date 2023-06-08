@@ -108,7 +108,6 @@ body {
     align-items: center;
     background-color: hsl(30, 38%, 92%);
     font-family: 'Montserrat', sans-serif;
-    overflow-block: hidden;
     overflow: hidden;
 }
 
@@ -178,7 +177,6 @@ h3 {
     float: left;
     margin: 0px;
     border-radius: 10px 0px 0px 10px;
-
 }
 
 .description {
@@ -200,7 +198,11 @@ h3 {
     border-radius: 10px;
     font-weight: 700;
     margin-top: 17px;
+    cursor: pointer;
     border-style: solid;
     border-width: 0px;
 }
+hover:button {
+    background-color: background-color: hsl(158, 89%, 14%);
+;
 }

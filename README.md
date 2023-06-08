@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Nikkaburger/product-preview-card-component)
-- Live Site URL: (https://frolicking-lokum-3f8b65.netlify.app/)
+- Live Site URL: (https://nikkaburger-product-preview-card.netlify.app/)
 
 ## My process
 
